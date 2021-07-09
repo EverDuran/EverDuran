@@ -1,7 +1,7 @@
-👋 Hola, Soy un Desarrollador Fullstack 
+👋 Hola, somos un grupo de Desarrolladores Fullstack 
 💻con experiencia en lenguajes de programación como Java c# JavaScript 
-🎓con 3 años de experiencia en el desarrollo web con estudios superiores en ingeniería de sistema
-💡me caracterizo por ser una persona recursiva, creativa y autodidacta 
+🎓con estudios superiores en ingeniería de sistema
+💡 nos caracterizamos por ser personas recursivas, creativas y autodidactas
 ☕con capacidades de establecer vínculos multidisciplinarios, buscar nuevos retos y curiosidad por el aprendizaje
 
 <!---
